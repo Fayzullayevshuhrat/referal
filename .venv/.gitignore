@@ -28,4 +28,4 @@ config.py
 
 # Bytecode compiled files
 *.pyc
-config.py
+*.config.py
